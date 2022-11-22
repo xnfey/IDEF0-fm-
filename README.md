@@ -9,7 +9,7 @@
  <li>стрелка выхода — правая кромка</li>
  
   <ul> <br>
-  <p align="center"><b>Инструкция по открытию Use Case Diagrams: </b></p>
+  <p align="center"><b>Инструкция по открытию Function-modeling Diagrams: </b></p>
   <ul>
    
   <li> Выбрать ветку </li>
